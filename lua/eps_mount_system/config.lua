@@ -16,6 +16,12 @@ EPS_Mounts_Config = {
 		["Spawn One"] = { -- Name of the Spawn Location
 			Position = Vector(-4697.279297, 9024.334961, -7933.736816), -- !position to get the position, then add ,'s in between the different numbers
 			Angle = Angle(0.000, 173.728, 0.000), -- Same here basically but with !angles
+			Map = "gm_flatgrass",
+		},
+		["Spawn Two"] = { -- Name of the Spawn Location
+			Position = Vector(-4697.279297, 9024.334961, -7933.736816), -- !position to get the position, then add ,'s in between the different numbers
+			Angle = Angle(0.000, 173.728, 0.000), -- Same here basically but with !angles
+			Map = "gm_flatgrass",
 		},
 	},
 
